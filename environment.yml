@@ -1,0 +1,30 @@
+name: nlp
+channels:
+  - conda-forge
+  - damianavila82
+dependencies:
+  - python==3.6
+  - ipython
+  - jupyter
+  - jupyterlab
+  - tensorflow==1.5
+  - keras>=2
+  - nltk
+  - textblob
+  - spacy
+  - gensim
+  - fasttext
+  - matplotlib
+  - seaborn
+  - numpy
+  - pandas
+  - scikit-learn
+  - requests
+  - beautifulsoup4
+  - rise
+  - pip:
+    - quilt
+    - pyldavis
+    - ftfy 
+    - nbbrowserpdf
+    - fuzzywuzzy

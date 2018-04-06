@@ -30,7 +30,7 @@ Guaranteed Topics
 - Text Classification - Sentiment Analysis  
 - Topic Modeling - Latent Dirichlet allocation (LDA)  and Non-negative matrix factorization (NMF) 
 - Word Embeddings - word2vec, GloVe, doc2vec, ...
-- Common packages - nltk, textblob, spacy, fasttext
+- Common packages - nltk, textblob, spacy, genism, fasttext
 - Deep Learning - all in Keras (with TensorFlow backend), RNN, LSTM, CNN 
 
 Possible Topics
@@ -69,7 +69,6 @@ Quotes from Past Students
 > - Labs hand down have the most impact on my learning. It's only when you start implementing the concepts yourself on your computer that you come up with the best questions.
 
 > - In the NLP class, the labs may be a struggle sometimes, but overall I think that exploratory learning process , trial and error style, is really helpful. Even if we don't feel productive, as long as there's an epiphany at the end of the minor struggle, it's all worth it.
-
 
 ------
 
