@@ -46,12 +46,12 @@ Topics Not Included
 -------
 
 - Theory. We are only going to cover applied parts of NLP, aka tips n' tricks for getting stuff done.
-- Grammar. It kinda sucks but Grammar is a very powerful way of understanding language.
+- Grammar. Grammar kinda sucks but it is a very powerful method for understanding language.
 - Non-English languages. I ❤️ other languages, and they are very important to understanding NLP. There is just enough not time!
-- Machine Translation. Again very important and incredible breakthroughs have been made. But not enough to adequately cover it.
+- Machine Translation. Again very important and incredible breakthroughs have been made. There is not enough time to adequately cover it.
 - Natural Language Understanding (NLU). Finding "meaning" in text. We'll spend most of our time focused on lower levels of processing.
-- Natural Language Generation (NLG). We'll only going to briefly touch on how to programmatically create text.
-- Speech. In the last couple of years, speech-based language processing has advanced greatly. For this class, we'll assume audio waves have been digitized into text.
+- Natural Language Generation (NLG). We'll only going to briefly touch on how to programmatically create text during the Language Modeling section.
+- Speech. In the last couple of years, speech-based language processing has revolutionized. For this class, we'll assume audio waves have been digitized into text.
 
 Course Structure
 -----
