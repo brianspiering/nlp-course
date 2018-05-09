@@ -1,12 +1,21 @@
-University of San Francisco's Natural Language Processing (NLP) course <br> Summer 2018
+University of San Francisco's Natural Language Processing (NLP) course <br>  MSAN 631 04 Summer 2018
 ------
-
-__Instructor:__ Brian Spiering [bspiering@usfca.edu](mailto:bspiering@usfca.edu)  
 
 <img src="https://pbs.twimg.com/media/BrPvG7wCMAAk6Qh.png" alt="GO FIND IMAGE" align="middle" style="width: 350px;"/>
 
 > The mystery lies in the use of language to express human life.  
 > – Eudora Welty 
+
+----
+Logistics
+-------
+
+__Instructor:__ Brian Spiering [bspiering@usfca.edu](mailto:bspiering@usfca.edu)  
+__Office hours__: By appointment  
+__Website__: [github.com/brianspiering/nlp-course](https://github.com/brianspiering/nlp-course)  
+__Communciation__: Slack [#nlp-2018](https://msan-usf.slack.com/messages/CAN3Y5Z9C)  
+__Location__: 101 Howard, room 154-156  
+__Time__: Tuesdays & Thursdays, 8:55am - 10:50am    
 
 ----
 Course Description
@@ -25,6 +34,17 @@ Prerequisites
 - Basic statistics (e.g., the difference between pmf and pdf)
 - One course in machine learning 
 - Intermediate Python (e.g., the ability to create classes). I have found that the more Python a student knows the more NLP he/she learns during the course.
+
+Learning Outcomes
+-----
+
+By the end of the course, you should be able to:  
+
+1. Apply fundamental NLP concepts and algorithms to solve real-world problems
+1. Write efficient code to process and model text data
+1. Classify and cluster text documents
+1. Create and use vector representations of words and documents
+1. Build an end-to-end system to model meaning in text
 
 -----
 NLP Course Schedule
@@ -78,7 +98,7 @@ Grades
 | Labs | 30% |
 | Final Project | 40% |
 
-The expected grade for this class is a B+. Getting an A- or above requires high level participation and a stellar final project.
+Course grades range from “A” to “F.” The MSDS program considers a grade of "A" to represent exceptional work with respect to both the instructor's expectations and peer student achievements. A grade of "B" represents the expected outcome, what is called "competence" in a business setting. A "C" grade represents achievements lower than the instructor's expectations for competence in the subject. A grade of "F" represents little or no work in the course.
 
 ### Participation
 You must also show up prepared. Each person is important to the dynamic of the class, and therefore students are required to participate in class activities. Expect to be "cold called". I call on students at random not to put you on the spot but to keep you engaged in the material at all times.
@@ -94,25 +114,46 @@ The labs will be hands-on activities all in Jupyter Notebooks. They will require
 Details will be covered in a future class (mostly likely the second class session).
 
 
-Course Structure
------
+__Course Structure__
 
 This course will be partly "[flipped](https://en.wikipedia.org/wiki/Flipped_classroom)", basic lectures will be videos watched before class. In class lectures will be on complex topics and [active learning](https://en.wikipedia.org/wiki/Active_learning)-style. You'll be writing a lot of code and completing many projects. 
 
+__Textbooks__
 
-Quotes from Past Students
------
+There are no required textbooks for this course. Preparation materials (e.g., videos, articles, and blog posts) will be assigned for each session. 
 
-> - Brian is absolutely great. He's very knowledgeable and available for students. He knows how to explain material in a coherent and structured manner. He doesn't jump around from concept to concept without a proper introduction of the context. He gave me extra material when I showed deeper interest in the subject.
+__Academic Integrity__
 
-> - Brian's explanatory pictures have been savior.
-  
-> - Labs hand down have the most impact on my learning. It's only when you start implementing the concepts yourself on your computer that you come up with the best questions.
+As a Jesuit institution committed to cura personalis — the care and education of the whole person — USF has an obligation to embody and foster the values of honesty and integrity. USF upholds the standards of honesty and integrity from all members of the academic community. All students are expected to know and adhere to the University's Honor Code. You can find the full text of the code online at www.usfca.edu/academic_integrity. The policy covers: 
 
-> - In the NLP class, the labs may be a struggle sometimes, but overall I think that exploratory learning process , trial and error style, is really helpful. Even if we don't feel productive, as long as there's an epiphany at the end of the minor struggle, it's all worth it.
+- Plagiarism — intentionally or unintentionally representing the words or ideas of another person as your own; failure to properly cite references; manufacturing references.
+- Working with another person when independent work is required.
+- Submission of the same paper in more than one course without the specific permission of each instructor.
+- Submitting a paper written by another person or obtained from the internet.
+- The penalties for violation of the policy may include a failing grade on the assignment, a failing grade in the course, and/or a referral to the Academic Integrity Committee.
 
-------
+__Students with disabilities__
 
-More details to follow…
+If you are a student with a disability or disabling condition, or if you think you may have a disability, please contact USF Student Disability Services (SDS) at 415 422-2613 within the first week of class, or immediately upon onset of disability, to speak with a disability specialist. 
 
-If you have any questions, please open an issue.
+If you are determined eligible for reasonable accommodations, please meet with your disability specialist so they can arrange to have your accommodation letter sent to me, and we will discuss your needs for this course.  For more information, please visit: http://www.usfca.edu/sds or call (415) 422-2613.
+
+__Behavioral Expectations__
+
+All students are expected to behave in accordance with the Student Conduct Code and other University policies (see http://www.usfca.edu/fogcutter/).  Open discussion and disagreement is encouraged when done respectfully and in the spirit of academic discourse. There are also a variety of behaviors that, while not against a specific University policy, may create disruption in this course. Students whose behavior is disruptive or who fail to comply with the instructor may be dismissed from the class for the remainder of the class period and may need to meet with the instructor or Dean prior to returning to the next class period. If necessary, referrals may also be made to the Student Conduct process for violations of the Student Conduct Code. 
+
+__Learning & Writing Center__
+
+The Learning & Writing Center provides assistance to all USF students in pursuit of academic success. Peer tutors provide regular review and practice of course materials in the subjects of Math, Science, Business, Economics, Nursing and Languages. Other content areas can be made available by student request. To schedule an appointment, log on to TutorTrac at https://tutortrac.usfca.edu. Students may also take advantage of writing support provided by Rhetoric and Language Department instructors and academic study skills support provided by Learning Center professional staff. For more information about these services contact the Learning & Writing Center at 415.422.6713, lwc@usfca.edu or stop by Cowell 215. Information may also be found at www.usfca.edu/lwc.
+
+__Counseling and Psychological Services__
+
+Our diverse staff offers individual, couple, and group counseling to student members of our community. Services are confidential and free of charge. Call 415.422.6352 for an initial consultation appointment. Having a crisis at 3 AM? We are still here for you. Telephone consultation after hours is available between the hours of 5:00 PM to 8:30 AM; call the above number and press 2.
+
+__Confidentiality, Mandatory Reporting and Sexual Assault__
+
+As an instructor, one of my responsibilities is to help create a safe learning environment on our campus. I also have a mandatory reporting responsibility related to my role as a faculty member. I am required to share information regarding sexual misconduct or information about a crime that may have occurred on USFs campus with the University. Here are other resources:
+- To report any sexual misconduct, students may visit Anna Bartkowski (UC 5th floor) or see many other options by visiting our website: www.usfca.edu/student_life/safer.
+- Students may speak to someone confidentially, or report a sexual assault confidentially by contacting Counseling and Psychological Services at 415-422-6352.  
+- To find out more about reporting a sexual assault at USF, visit USFs Callisto website at: www.usfca.callistocampus.org. 
+- For an off-campus resource, contact San Francisco Women Against Rape (SFWAR) (415) 647-7273 (www.sfwar.org).
