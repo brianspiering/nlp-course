@@ -21,11 +21,11 @@ __Time__: Tuesdays & Thursdays, 8:55am - 10:50am
 Course Description
 ----
 
-This course covers the fundamental concepts and algorithms in Natural Language Processing (NLP). The goal is to process and understand text using statistical modeling and programming.
+This course covers the fundamental concepts and algorithms in Natural Language Processing (NLP). The goal of the course is to understand text using computational statistics.
 
 This course will start with basic text processing techniques (such as regular expressions) and then cover advanced techniques (text classification and topic modeling). The emphasis will be on contemporary best practices in industry, including Deep Learning and text embeddings. Along the way we will touch upon text mining, information retrieval, and computational linguistics.
 
-This is course is a "buffet" format, a sample of many things, but you will not get "full" on any one topic. People get a PhD in each of these individual topics. __Remember__ - a little bit of knowledge and a lot of "how to" goes a long way.
+This is course is a "buffet" format, a sample of many things, but you will not get "full" on any one topic. People get a PhD in each of these individual topics. __Remember__ - a little bit of knowledge and a lot of "how to" goes a long way in Data Science.
 
 Prerequisites
 -----
@@ -33,7 +33,7 @@ Prerequisites
 - Working knowledge of probability (e.g., calculate conditional probability and apply Bayes Theorem)
 - Basic statistics (e.g., the difference between pmf and pdf)
 - One course in machine learning 
-- Intermediate Python (e.g., the ability to create classes). I have found that the more Python a student knows the more NLP he/she learns during the course.
+- Intermediate Python (e.g., the ability to create classes). Based on previous classes, the more Python a student knows the more NLP he/she learns during the course.
 
 Learning Outcomes
 -----
@@ -86,7 +86,7 @@ Topics Not Included
 - Machine Translation. Again very important and incredible breakthroughs have been made. There is not enough time to adequately cover it.
 - Natural Language Understanding (NLU). Finding "meaning" in text. We'll spend most of our time focused on lower levels of processing.
 - Natural Language Generation (NLG). We'll only going to briefly touch on how to programmatically create text during the Language Modeling section.
-- Speech. In the last couple of years, speech-based language processing has revolutionized. For this class, we'll assume audio waves have been digitized into text.
+- Speech. In the last couple of years, speech-based language processing has be revolutionized. For this class, we'll assume audio waves have been digitized into text.
 
 ----
 Grades
@@ -107,16 +107,15 @@ Attendance is mandatory. It is the responsibility of the student to attend all c
 
 ### Labs
 
-The labs will be hands-on activities all in Jupyter Notebooks. They will require a combination of coding and self-reflection. The coding will be implementing algorithms from scratch or using common libraries (e.g., scikit-learn, nltk, and textblob). The self-reflection will be writing to explain a concept or apply a concept to new situation. 
+The labs will be hands-on activities all. They will require a combination of coding and writing. The coding sections will be implementing algorithms from scratch or applying common libraries (e.g., scikit-learn, nltk, and keras). The writing sections will focus on communication to technical and nontechnical audiences.
 
 ### Final Project
 
 Details will be covered in a future class (mostly likely the second class session).
 
-
 __Course Structure__
 
-This course will be partly "[flipped](https://en.wikipedia.org/wiki/Flipped_classroom)", basic lectures will be videos watched before class. In class lectures will be on complex topics and [active learning](https://en.wikipedia.org/wiki/Active_learning)-style. You'll be writing a lot of code and completing many projects. 
+This course will be partly "[flipped](https://en.wikipedia.org/wiki/Flipped_classroom)", basic lectures will be videos watched before class. In class lectures will cover complex topics in an [active learning](https://en.wikipedia.org/wiki/Active_learning)-style. You'll be writing a lot of code and completing many projects. 
 
 __Textbooks__
 
@@ -124,7 +123,7 @@ There are no required textbooks for this course. Preparation materials (e.g., vi
 
 __Academic Integrity__
 
-As a Jesuit institution committed to cura personalis — the care and education of the whole person — USF has an obligation to embody and foster the values of honesty and integrity. USF upholds the standards of honesty and integrity from all members of the academic community. All students are expected to know and adhere to the University's Honor Code. You can find the full text of the code online at www.usfca.edu/academic_integrity. The policy covers: 
+As a Jesuit institution committed to _cura personalis_ — the care and education of the whole person — USF has an obligation to embody and foster the values of honesty and integrity. USF upholds the standards of honesty and integrity from all members of the academic community. All students are expected to know and adhere to the University's Honor Code. You can find the full text of the code online at [usfca.edu/academic_integrity](www.usfca.edu/academic_integrity). The policy covers: 
 
 - Plagiarism — intentionally or unintentionally representing the words or ideas of another person as your own; failure to properly cite references; manufacturing references.
 - Working with another person when independent work is required.
@@ -153,6 +152,7 @@ Our diverse staff offers individual, couple, and group counseling to student mem
 __Confidentiality, Mandatory Reporting and Sexual Assault__
 
 As an instructor, one of my responsibilities is to help create a safe learning environment on our campus. I also have a mandatory reporting responsibility related to my role as a faculty member. I am required to share information regarding sexual misconduct or information about a crime that may have occurred on USFs campus with the University. Here are other resources:
+
 - To report any sexual misconduct, students may visit Anna Bartkowski (UC 5th floor) or see many other options by visiting our website: www.usfca.edu/student_life/safer.
 - Students may speak to someone confidentially, or report a sexual assault confidentially by contacting Counseling and Psychological Services at 415-422-6352.  
 - To find out more about reporting a sexual assault at USF, visit USFs Callisto website at: www.usfca.callistocampus.org. 
