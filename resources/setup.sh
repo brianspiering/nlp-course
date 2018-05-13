@@ -13,6 +13,9 @@ source activate nlp
 conda update --all --yes
 # pip install --upgrade -r <( pip freeze )
 
+# Get nlp data
+quilt install spiering/shakespeare
+
 # Setup spell checking and other notebook enhancements
 git clone https://github.com/Calysto/notebook-extensions.git
 cd notebook-extensions
@@ -25,8 +28,3 @@ rm -r -f notebook-extensions
 # Setup RISE (https://github.com/damianavila/RISE) slideshows 
 jupyter nbextension install rise --py --sys-prefix
 jupyter nbextension enable rise --py --sys-prefix
-
-# Start Jupyter Notebook
-if [[ "$1" != "--no-start" ]]; then
-    jupyter notebook --browser=Chrome
-fi
