@@ -12,9 +12,11 @@ Logistics
 
 __Instructor:__ Brian Spiering [bspiering@usfca.edu](mailto:bspiering@usfca.edu)  
 __Office hours__: By appointment  
+__"Grader":__ TBD  
+__Office hours__: TBD  
 __Website__: [github.com/brianspiering/nlp-course](https://github.com/brianspiering/nlp-course)  
 __Communciation__: Slack [#nlp-2018](https://msan-usf.slack.com/messages/CAN3Y5Z9C)  
-__Location__: 101 Howard, room 154-156  
+__Location__: 101 Howard, room 154 - 156  
 __Time__: Tuesdays & Thursdays, 8:55am - 10:50am    
 
 ----
@@ -42,7 +44,7 @@ By the end of the course, you should be able to:
 
 1. Apply fundamental NLP concepts and algorithms to solve real-world problems
 1. Write efficient code to process and model text data
-1. Classify and cluster text documents
+1. Classify and cluster text data
 1. Create and use vector representations of words and documents
 1. Build an end-to-end system to model meaning in text
 
@@ -107,11 +109,15 @@ Attendance is mandatory. It is the responsibility of the student to attend all c
 
 ### Labs
 
-The labs will be hands-on activities all. They will require a combination of coding and writing. The coding sections will be implementing algorithms from scratch or applying common libraries (e.g., scikit-learn, nltk, and keras). The writing sections will focus on communication to technical and nontechnical audiences.
+The labs will be hands-on activities. They will require a combination of coding and writing. The coding sections will be implementing algorithms from scratch or applying common libraries (e.g., scikit-learn, nltk, and keras). The writing sections will focus on communication to technical and nontechnical audiences.
 
 ### Final Project
 
-Details will be covered in a future class (mostly likely the second class session).
+Details in Final Project Folder.
+
+----
+Useful Stuff To Know About
+----
 
 __Course Structure__
 
