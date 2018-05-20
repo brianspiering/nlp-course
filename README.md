@@ -49,35 +49,21 @@ By the end of the course, you should be able to:
 1. Build an end-to-end system to model meaning in text
 
 -----
-NLP Course Schedule
+Course Schedule
 -------
 
-1. Welcome & NLP Overview [05/22]
-2. Regular Expressions [05/24]
-3. Segmenting, Tokenizing, & Stemming [05/29]
-4. Language Modeling [05/31]
-5. Text Embeddings: Words [06/03]  
-6. Text Embeddings: Documents et al. [06/07]
-7. Word Tagging: POS (part of speech) and NER (named entity recognition) [06/12]
-8. Text Classification / Sentiment Analysis with Naive Bayes [06/14]
-9. Text Classification with Deep Learning [06/19]
-10. Information Retrieval / Search Engineering [06/21]
-11. Topic Modeling with Latent Dirichlet allocation (LDA) [06/26]
-12. Student's Choice [06/28]  
-
-Topics for Student's Choice
------
-
-- Text Encoding
-- Edit Distance
-- Spelling Correction
-- Chatbots
-- Text classification with Logistic Regression
-- Advanced Sentiment Analysis
-- Topic Modeling with Non-negative matrix factorization (NMF) 
-- Additional Deep Learning
-- Additional Information Retrieval / Search Engineering
-- Text summarization
+1.  [05/22] Welcome & NLP Overview 
+2.  [05/24] Regular Expressions 
+3.  [05/29] Segmenting, Tokenizing, & Stemming 
+4.  [05/31] Language Modeling 
+5.  [06/03] Text Embeddings: Words  
+6.  [06/07] Text Embeddings: Documents et al. 
+7.  [06/12] Word Tagging: POS (part of speech) and NER (named entity recognition) 
+8.  [06/14] Text Classification / Sentiment Analysis with Naive Bayes 
+9.  [06/19] Text Classification with Deep Learning 
+10. [06/21] Information Retrieval / Search Engineering 
+11. [06/26] Topic Modeling with Latent Dirichlet allocation (LDA) 
+12. [06/28] Final Project Poster Presentation
 
 Topics Not Included
 -------
@@ -91,7 +77,7 @@ Topics Not Included
 - Speech. In the last couple of years, speech-based language processing has be revolutionized. For this class, we'll assume audio waves have been digitized into text.
 
 ----
-Grades
+Grading
 ----
 
 | Item | Weight  |  
