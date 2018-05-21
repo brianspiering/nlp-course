@@ -10,10 +10,10 @@ University of San Francisco's Natural Language Processing (NLP) course <br>  MSA
 Logistics
 -------
 
-__Instructor:__ Brian Spiering [bspiering@usfca.edu](mailto:bspiering@usfca.edu)  
+__Instructor:__ Brian Spiering [Slack DM](https://msan-usf.slack.com/messages/DAMAXHTL5) (perfered) [bspiering@usfca.edu](mailto:bspiering@usfca.edu)  (not perfered)  
 __Office hours__: By appointment  
-__"Grader":__ TBD  
-__Office hours__: TBD  
+__Grader:__ Jaime Almeida  
+__Office hours__: By appointment  
 __Website__: [github.com/brianspiering/nlp-course](https://github.com/brianspiering/nlp-course)  
 __Communciation__: Slack [#nlp-2018](https://msan-usf.slack.com/messages/CAN3Y5Z9C)  
 __Location__: 101 Howard, room 154 - 156  
@@ -27,7 +27,9 @@ This course covers the fundamental concepts and algorithms in Natural Language P
 
 This course will start with basic text processing techniques (such as regular expressions) and then cover advanced techniques (text classification and topic modeling). The emphasis will be on contemporary best practices in industry, including Deep Learning and text embeddings. Along the way we will touch upon text mining, information retrieval, and computational linguistics.
 
-This is course is a "buffet" format, a sample of many things, but you will not get "full" on any one topic. People get a PhD in each of these individual topics. __Remember__ - a little bit of knowledge and a lot of "how to" goes a long way in Data Science.
+This is course is a "buffet" format, a sample of many things, but you will not get "full" on any one topic. People get a PhD in each of these individual topics. 
+
+__Remember__ - A little bit of knowledge and a lot of "how to" goes a long way in Data Science.
 
 Prerequisites
 -----
@@ -65,7 +67,7 @@ Course Schedule
 11. [06/26] Topic Modeling with Latent Dirichlet allocation (LDA) 
 12. [06/28] Final Project Poster Presentation
 
-Topics Not Included
+Topics Not Covered
 -------
 
 - Theory. We are only going to cover applied parts of NLP, aka tips n' tricks for getting stuff done.
@@ -74,14 +76,14 @@ Topics Not Included
 - Machine Translation. Again very important and incredible breakthroughs have been made. There is not enough time to adequately cover it.
 - Natural Language Understanding (NLU). Finding "meaning" in text. We'll spend most of our time focused on lower levels of processing.
 - Natural Language Generation (NLG). We'll only going to briefly touch on how to programmatically create text during the Language Modeling section.
-- Speech. In the last couple of years, speech-based language processing has be revolutionized. For this class, we'll assume audio waves have been digitized into text.
+- Speech Recognition. For this class, we'll assume audio waves have been digitized into text. In the last couple of years, speech-based language processing has be revolutionized and it is well worth looking into.
 
 ----
 Grading
 ----
 
 | Item | Weight  |  
-|:-------:|:------:|
+|:-------|:------:|
 | Participation | 30% | 
 | Labs | 30% |
 | Final Project | 40% |
@@ -89,9 +91,10 @@ Grading
 Course grades range from “A” to “F.” The MSDS program considers a grade of "A" to represent exceptional work with respect to both the instructor's expectations and peer student achievements. A grade of "B" represents the expected outcome, what is called "competence" in a business setting. A "C" grade represents achievements lower than the instructor's expectations for competence in the subject. A grade of "F" represents little or no work in the course.
 
 ### Participation
-You must also show up prepared. Each person is important to the dynamic of the class, and therefore students are required to participate in class activities. Expect to be "cold called". I call on students at random not to put you on the spot but to keep you engaged in the material at all times.
 
-Attendance is mandatory. It is the responsibility of the student to attend all classes. If you have to miss class, due to sickness or other circumstances, please notify your instructor by Slack in advance. Supporting documents (doctor’s notes) should accompany absences due to sickness.
+You must show up to each session prepared. Each person is important to the dynamic of the class, and therefore students are required to participate in class activities. Expect to be "cold called". I call on students at random not to put you on the spot but to keep you engaged in the material at all times.
+
+Attendance is mandatory. It is the responsibility of the student to attend all classes. If you have to miss class, due to sickness or other circumstances, please notify your instructor by Slack in advance. Supporting documents (e.g., doctor’s notes) should accompany absences due to sickness.
 
 ### Labs
 
@@ -107,7 +110,7 @@ Useful Stuff To Know About
 
 __Course Structure__
 
-This course will be partly "[flipped](https://en.wikipedia.org/wiki/Flipped_classroom)", basic lectures will be videos watched before class. In class lectures will cover complex topics in an [active learning](https://en.wikipedia.org/wiki/Active_learning)-style. You'll be writing a lot of code and completing many projects. 
+This course will be partly "[flipped](https://en.wikipedia.org/wiki/Flipped_classroom)", basic lectures will be videos watched __before__ class. In class lectures will cover complex topics in an [active learning](https://en.wikipedia.org/wiki/Active_learning)-style. You'll be writing a lot of code and completing many projects during class time. 
 
 __Textbooks__
 
