@@ -11,7 +11,6 @@ source activate nlp
 
 # Update environment (might break stuff. move fast!?)
 conda update --all --yes
-# pip install --upgrade -r <( pip freeze )
 
 # Get nlp data
 quilt install spiering/shakespeare
