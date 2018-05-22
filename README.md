@@ -10,7 +10,7 @@ University of San Francisco's Natural Language Processing (NLP) course <br>  MSA
 Logistics
 -------
 
-__Instructor:__ Brian Spiering [Slack DM](https://msan-usf.slack.com/messages/DAMAXHTL5) (perfered) [bspiering@usfca.edu](mailto:bspiering@usfca.edu)  (not perfered)  
+__Instructor:__ Brian Spiering | [Slack DM](https://msan-usf.slack.com/messages/DAMAXHTL5) (more perfered) | [bspiering@usfca.edu](mailto:bspiering@usfca.edu) (less perfered)  
 __Office hours__: By appointment  
 __Grader:__ Jaime Almeida  
 __Office hours__: By appointment  
@@ -65,7 +65,7 @@ Course Schedule
 9.  [06/19] Text Classification with Deep Learning 
 10. [06/21] Information Retrieval / Search Engineering 
 11. [06/26] Topic Modeling with Latent Dirichlet allocation (LDA) 
-12. [06/28] Final Project Poster Presentation
+12. [06/28] Final Project Poster Presentations
 
 Topics Not Covered
 -------
