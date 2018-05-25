@@ -1,7 +1,7 @@
 Natural Language Processing Final Project
 ------
 
-Due date: 2018-06-29 at 9am
+Due date: 2018-06-29 at 9am  
 Purpose: Build an end-to-end system to model meaning in text.
 
 ### Learning Outcomes:
@@ -109,5 +109,4 @@ Hints
 - Make it run, make it right, make it fast. (in that order)
 - Go end-to-end as quickly possible. From raw data -> simple model -> evaluation. Then explore options for each stage.
 - [Tips if model is not working](https://blog.slavv.com/37-reasons-why-your-neural-network-is-not-working-4020854bd607)
-- How do get a "A"? Do something groundbreaking (seriously). Either ground-breaking for the field or for the class.
-    + For example, fit evaluation metrics not covered in class - "[Beyond Accuracy, F-score and ROC...](http://transsearch.iro.umontreal.ca/rali/sites/default/files/publis/EvAAAI06finMay10.pdf)"
+- How do I get a "A"? Do something groundbreaking (seriously). Either ground-breaking for the field or for the class.
