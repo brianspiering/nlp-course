@@ -15,5 +15,6 @@ __Optional__:
 + [Another video about stemming](https://www.coursera.org/learn/natural-language-processing/lecture/byUdd/02-04-morphological-similarity-stemming-14-54)
 + [Webinar on Tokenizing Words and Sentences with NLTK](https://pythonprogramming.net/tokenizing-words-sentences-nltk-tutorial/)
 
-        
-    
+__Challenge__:
+
+- [Fast Word Segmentation of Noisy Text](https://towardsdatascience.com/fast-word-segmentation-for-noisy-text-2c2c41f9e8da)
