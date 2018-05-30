@@ -3,12 +3,12 @@ Language Modeling
 
 __Required__:
 
-- Watch [NLP by Peter Norvig ](https://classroom.udacity.com/courses/cs271/lessons/48641663/concepts/487136530923) __Stop at "Classification"__
+- Watch [NLP by Peter Norvig](https://classroom.udacity.com/courses/cs271/lessons/48641663/concepts/487136530923) __Stop at "Classification"__
 - Read [How To Do Things With Words](https://github.com/norvig/pytudes/blob/master/How%20to%20Do%20Things%20with%20Words.ipynb)
-- Watch Coursera's__Language Modeling__ [Introduction to N-grams](https://www.youtube.com/watch?v=s3kKlUBa3b0&index=12&list=PLhVhwi0Pz282aSA2uZX4jR3SkF3BKyMOK)
-- Watch Coursera's__Language Modeling__ [Estimating N-gram Probabilities](https://www.youtube.com/watch?v=o-CvoOkVrnY&index=13&list=PLhVhwi0Pz282aSA2uZX4jR3SkF3BKyMOK)
-- Watch Coursera's__Language Modeling__ [Generalization and Zeros](https://www.youtube.com/watch?v=s5Yg6qac9ag&index=15&list=PLhVhwi0Pz282aSA2uZX4jR3SkF3BKyMOK)
-- Watch Coursera's__Language Modeling__ [Smoothing: Add-One](https://www.youtube.com/watch?v=d8nVJjlMOYo&index=16&list=PLhVhwi0Pz282aSA2uZX4jR3SkF3BKyMOK)
+- Watch Coursera's__Language Modeling__ [Introduction to N-grams](https://www.youtube.com/watch?v=dkUtavsPqNA)
+- Watch Coursera's__Language Modeling__ [Estimating N-gram Probabilities](https://www.youtube.com/watch?v=w4utWoJfxGE)
+- Watch Coursera's__Language Modeling__ [Generalization and Zeros](https://www.youtube.com/watch?v=XjwVAMWrmrw)
+- Watch Coursera's__Language Modeling__ [Smoothing: Add-One](https://www.youtube.com/watch?v=ebeGh8HM4Jo)
 
 __Optional__:
 
