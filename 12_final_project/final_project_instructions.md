@@ -21,7 +21,15 @@ You should follow the Data Science Workflow:
 
 These steps are iterative (do a little preprocessing, do a little modeling, redo the preprocessing, …).
 
-This project will become a part of your public Data Science portfolio, thus all data must be public data.  
+This project will become a part of your public Data Science portfolio, thus all 
+data must be public data.  
+
+The project can take many forms. The most common are:
+
+- Data Modeling
+- Algorithm Implementation 
+- Chatbot
+- Tutorial
 
 ----
 1. Ask the right question
