@@ -1,4 +1,13 @@
-.pptx
+# Data
+Untitled.ipynb
+text8.zip
+labeledTrainData.tsv
+testData.tsv
+unlabeledTrainData.tsv
+txt_sentoken/
+review_polarity.tar.gz
+poldata.README.2.0
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
