@@ -1,4 +1,4 @@
-University of San Francisco's Natural Language Processing (NLP) course <br>  MSAN 631 04 Summer 2018
+An introduciton to Natural Language Processing (NLP) course
 ------
 
 <img src="https://pbs.twimg.com/media/BrPvG7wCMAAk6Qh.png" alt="GO FIND IMAGE" align="middle" style="width: 350px;"/>
@@ -10,14 +10,8 @@ University of San Francisco's Natural Language Processing (NLP) course <br>  MSA
 Logistics
 -------
 
-__Instructor:__ Brian Spiering | [Slack DM](https://msan-usf.slack.com/messages/DAMAXHTL5) (more perfered) | [bspiering@usfca.edu](mailto:bspiering@usfca.edu) (less perfered)  
-__Office hours__: By appointment  
-__Grader:__ Jaime Almeida  
-__Office hours__: By appointment  
+__Instructor:__ Brian Spiering 
 __Website__: [github.com/brianspiering/nlp-course](https://github.com/brianspiering/nlp-course)  
-__Communciation__: Slack [#nlp-2018](https://msan-usf.slack.com/messages/CAN3Y5Z9C)  
-__Location__: 101 Howard, room 154 - 156  
-__Time__: Tuesdays & Thursdays, 8:55am - 10:50am    
 
 ----
 Course Description
@@ -51,21 +45,21 @@ By the end of the course, you should be able to:
 1. Build an end-to-end system to model meaning in text
 
 -----
-Course Schedule
+Course Topics
 -------
 
-1.  [05/22] Welcome & NLP Overview 
-2.  [05/24] Regular Expressions 
-3.  [05/29] Segmenting, Tokenizing, & Stemming 
-4.  [05/31] Language Modeling 
-5.  [06/03] Text Embeddings: Words  
-6.  [06/07] Text Embeddings: Documents et al. 
-7.  [06/12] Word Tagging: POS (part of speech) and NER (named entity recognition) 
-8.  [06/14] Text Classification / Sentiment Analysis with Naive Bayes 
-9.  [06/19] Text Classification with Deep Learning 
-10. [06/21] Information Retrieval / Search Engineering 
-11. [06/26] Topic Modeling with Latent Dirichlet allocation (LDA) 
-12. [06/28] Final Project Poster Presentations
+1.  Welcome 
+2.  NLP Overview 
+3.  Regular Expressions 
+4.  Segmenting, Tokenizing, & Stemming 
+5.  Language Modeling 
+6.  Text Embeddings: Words  
+7.  Text Embeddings: Documents et al. 
+8.  Word Tagging: POS (part of speech) and NER (named entity recognition) 
+9.  Text Classification / Sentiment Analysis with Naive Bayes 
+10. Text Classification with Deep Learning 
+11. Information Retrieval / Search Engineering 
+12. Topic Modeling with Latent Dirichlet allocation (LDA) 
 
 Topics Not Covered
 -------
@@ -116,39 +110,3 @@ __Textbooks__
 
 There are no required textbooks for this course. Preparation materials (e.g., videos, articles, and blog posts) will be assigned for each session. 
 
-__Academic Integrity__
-
-As a Jesuit institution committed to _cura personalis_ — the care and education of the whole person — USF has an obligation to embody and foster the values of honesty and integrity. USF upholds the standards of honesty and integrity from all members of the academic community. All students are expected to know and adhere to the University's Honor Code. You can find the full text of the code online at [usfca.edu/academic_integrity](www.usfca.edu/academic_integrity). The policy covers: 
-
-- Plagiarism — intentionally or unintentionally representing the words or ideas of another person as your own; failure to properly cite references; manufacturing references.
-- Working with another person when independent work is required.
-- Submission of the same paper in more than one course without the specific permission of each instructor.
-- Submitting a paper written by another person or obtained from the internet.
-- The penalties for violation of the policy may include a failing grade on the assignment, a failing grade in the course, and/or a referral to the Academic Integrity Committee.
-
-__Students with disabilities__
-
-If you are a student with a disability or disabling condition, or if you think you may have a disability, please contact USF Student Disability Services (SDS) at 415 422-2613 within the first week of class, or immediately upon onset of disability, to speak with a disability specialist. 
-
-If you are determined eligible for reasonable accommodations, please meet with your disability specialist so they can arrange to have your accommodation letter sent to me, and we will discuss your needs for this course.  For more information, please visit: http://www.usfca.edu/sds or call (415) 422-2613.
-
-__Behavioral Expectations__
-
-All students are expected to behave in accordance with the Student Conduct Code and other University policies (see http://www.usfca.edu/fogcutter/).  Open discussion and disagreement is encouraged when done respectfully and in the spirit of academic discourse. There are also a variety of behaviors that, while not against a specific University policy, may create disruption in this course. Students whose behavior is disruptive or who fail to comply with the instructor may be dismissed from the class for the remainder of the class period and may need to meet with the instructor or Dean prior to returning to the next class period. If necessary, referrals may also be made to the Student Conduct process for violations of the Student Conduct Code. 
-
-__Learning & Writing Center__
-
-The Learning & Writing Center provides assistance to all USF students in pursuit of academic success. Peer tutors provide regular review and practice of course materials in the subjects of Math, Science, Business, Economics, Nursing and Languages. Other content areas can be made available by student request. To schedule an appointment, log on to TutorTrac at https://tutortrac.usfca.edu. Students may also take advantage of writing support provided by Rhetoric and Language Department instructors and academic study skills support provided by Learning Center professional staff. For more information about these services contact the Learning & Writing Center at 415.422.6713, lwc@usfca.edu or stop by Cowell 215. Information may also be found at www.usfca.edu/lwc.
-
-__Counseling and Psychological Services__
-
-Our diverse staff offers individual, couple, and group counseling to student members of our community. Services are confidential and free of charge. Call 415.422.6352 for an initial consultation appointment. Having a crisis at 3 AM? We are still here for you. Telephone consultation after hours is available between the hours of 5:00 PM to 8:30 AM; call the above number and press 2.
-
-__Confidentiality, Mandatory Reporting and Sexual Assault__
-
-As an instructor, one of my responsibilities is to help create a safe learning environment on our campus. I also have a mandatory reporting responsibility related to my role as a faculty member. I am required to share information regarding sexual misconduct or information about a crime that may have occurred on USFs campus with the University. Here are other resources:
-
-- To report any sexual misconduct, students may visit Anna Bartkowski (UC 5th floor) or see many other options by visiting our website: www.usfca.edu/student_life/safer.
-- Students may speak to someone confidentially, or report a sexual assault confidentially by contacting Counseling and Psychological Services at 415-422-6352.  
-- To find out more about reporting a sexual assault at USF, visit USFs Callisto website at: www.usfca.callistocampus.org. 
-- For an off-campus resource, contact San Francisco Women Against Rape (SFWAR) (415) 647-7273 (www.sfwar.org).
